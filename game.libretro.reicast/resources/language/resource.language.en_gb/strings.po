@@ -1,10 +1,10 @@
-# game.libretro.flycast language file
-# Addon Name: game.libretro.flycast
-# Addon id: game.libretro.flycast
+# game.libretro.reicast language file
+# Addon Name: game.libretro.reicast
+# Addon id: game.libretro.reicast
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.flycast\n"
+"Project-Id-Version: game.libretro.reicast\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
 "PO-Revision-Date: 2019-08-24 22:21i\n"
@@ -28,24 +28,8 @@ msgctxt "#30000"
 msgid "Settings"
 msgstr ""
 
-msgctxt "#30001"
-msgid "Boot to BIOS (Restart Required)"
-msgstr ""
-
-msgctxt "#30002"
-msgid "System Type (Restart Required)"
-msgstr ""
-
 msgctxt "#30003"
 msgid "HLE BIOS"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Accumulation Pixel Buffer Size (Restart Required)"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Internal Resolution (Restart Required)"
 msgstr ""
 
 msgctxt "#30006"
@@ -56,36 +40,16 @@ msgctxt "#30007"
 msgid "Alpha Sorting"
 msgstr ""
 
-msgctxt "#30008"
-msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
-
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Fog Effects"
 msgstr ""
 
 msgctxt "#30011"
 msgid "Volume Modifier"
 msgstr ""
 
-msgctxt "#30012"
-msgid "Widescreen Hack (Restart Required)"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
-
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Broadcast Standard"
 msgstr ""
 
 msgctxt "#30016"
@@ -98,10 +62,6 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
-
-msgctxt "#30019"
-msgid "DIV Matching"
 msgstr ""
 
 msgctxt "#30020"
@@ -124,14 +84,6 @@ msgctxt "#30024"
 msgid "Enable DSP"
 msgstr ""
 
-msgctxt "#30025"
-msgid "Anisotropic Filtering"
-msgstr ""
-
-msgctxt "#30026"
-msgid "PowerVR2 Post-processing Filter"
-msgstr ""
-
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
 msgstr ""
@@ -146,10 +98,6 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Threaded Rendering (Restart Required)"
 msgstr ""
 
 msgctxt "#30032"
@@ -172,24 +120,12 @@ msgctxt "#30036"
 msgid "Allow NAOMI Service Buttons"
 msgstr ""
 
-msgctxt "#30037"
-msgid "Enable NAOMI 15KHz DIP switch"
-msgstr ""
-
 msgctxt "#30038"
 msgid "Load Custom Textures"
 msgstr ""
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
 msgstr ""
 
 msgctxt "#30042"
@@ -288,10 +224,6 @@ msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
 msgstr ""
 
-msgctxt "#30066"
-msgid "Show Light Gun Settings"
-msgstr ""
-
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
 msgstr ""
@@ -306,4 +238,52 @@ msgstr ""
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Boot to BIOS (Restart)"
+msgstr ""
+
+msgctxt "#30072"
+msgid "System Type (Restart)"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Internal Resolution (Restart)"
+msgstr ""
+
+msgctxt "#30074"
+msgid "GDROM Fast Loading (inaccurate)"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Widescreen Hack (Restart)"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Widescreen Cheats (Restart)"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Broadcast"
+msgstr ""
+
+msgctxt "#30078"
+msgid "DIV Matching (performance, less accurate)"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Enable RTT (Render To Texture)"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Threaded Rendering (Restart)"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Enable NAOMI 15KHz Dipswitch"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Per-Game VMUs"
 msgstr ""

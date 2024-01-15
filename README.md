@@ -2,7 +2,7 @@
 
 ### Description
 
-Flycast is a fork of Reicast, a multi-platform Sega Dreamcast emulator.
+Reicast is a multi-platform Sega Dreamcast emulator.
 
 ### License
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Sega - Dreamcast/Naomi (Flycast) icon](game.libretro.flycast/resources/icon.png)
+![Sega - Dreamcast/Naomi (Flycast) icon](game.libretro.reicast/resources/icon.png)
 
 ### Fanart
 

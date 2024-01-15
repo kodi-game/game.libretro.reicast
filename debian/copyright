@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: game.libretro.flycast
-Source: https://github.com/kodi-game/game.libretro.flycast
+Upstream-Name: game.libretro.reicast
+Source: https://github.com/kodi-game/game.libretro.reicast
 
 Files: *
 Copyright: 2005-2019 Team Kodi

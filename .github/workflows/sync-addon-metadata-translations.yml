@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.flycast'
+    if: github.repository == 'kodi-game/game.libretro.reicast'
     runs-on: ubuntu-latest
 
     steps:

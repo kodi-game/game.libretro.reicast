@@ -1,14 +1,14 @@
-Source: kodi-game-libretro-flycast
+Source: kodi-game-libretro-reicast
 Priority: extra
 Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-flycast (>= 0.1.0) | flycast (>= 0.1.0)
+               libretro-reicast (>= 0.1.0) | reicast (>= 0.1.0)
 Standards-Version: 3.9.8
 Section: libs
 
-Package: kodi-game-libretro-flycast
+Package: kodi-game-libretro-reicast
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
