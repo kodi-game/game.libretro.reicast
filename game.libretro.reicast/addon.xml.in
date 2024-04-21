@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Sega - Dreamcast/Naomi (Flycast)</summary>
 		<summary lang="en_GB">Sega - Dreamcast/Naomi (Flycast)</summary>
 		<summary lang="es_ES">Sega - Dreamcast/Naomi (Flycast)</summary>
 		<description lang="en_GB">Reicast is a multi-platform Sega Dreamcast emulator.</description>
