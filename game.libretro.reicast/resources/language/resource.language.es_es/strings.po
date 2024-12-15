@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Reicast is a multi-platform Sega Dreamcast emulator."
 msgstr "Reicast es un emulador multiplataforma de Sega Dreamcast."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30003"
 msgid "HLE BIOS"
 msgstr "HLE BIOS"
@@ -288,3 +284,7 @@ msgstr "Habilitar NAOMI 15KHz Interruptor DIP"
 msgctxt "#30082"
 msgid "Per-Game VMUs"
 msgstr "VMUs por partida"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
