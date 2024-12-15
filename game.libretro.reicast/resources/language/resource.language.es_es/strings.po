@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Reicast is a multi-platform Sega Dreamcast emulator.[CR][CR]This add-on is now marked as broken. Please use Flycast."
 msgstr "Reicast es un emulador multiplataforma de Sega Dreamcast."
 
-msgctxt "Addon Lifecyclestate"
-msgid "This add-on has been renamed from Reicast to Flycast."
-msgstr ""
-
 msgctxt "#30003"
 msgid "HLE BIOS"
 msgstr "HLE BIOS"
