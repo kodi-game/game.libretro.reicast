@@ -22,7 +22,7 @@ msgid "Sega - Dreamcast/Naomi (Flycast)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Reicast is a multi-platform Sega Dreamcast emulator."
+msgid "Reicast is a multi-platform Sega Dreamcast emulator.[CR][CR]This add-on is now marked as broken. Please use Flycast."
 msgstr ""
 
 msgctxt "Addon Lifecyclestate"
