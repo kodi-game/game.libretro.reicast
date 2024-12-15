@@ -4,6 +4,8 @@
 
 Reicast is a multi-platform Sega Dreamcast emulator.
 
+This add-on is now marked as broken. Please use Flycast.
+
 ### License
 
 GPLv2

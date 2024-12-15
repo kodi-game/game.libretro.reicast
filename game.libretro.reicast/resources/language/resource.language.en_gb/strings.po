@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Reicast is a multi-platform Sega Dreamcast emulator.[CR][CR]This add-on is now marked as broken. Please use Flycast."
 msgstr ""
 
-msgctxt "Addon Lifecyclestate"
-msgid "This add-on has been renamed from Reicast to Flycast."
-msgstr ""
-
 # Empty string with ID 30000
 
 msgctxt "#30003"
