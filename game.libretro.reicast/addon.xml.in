@@ -27,5 +27,7 @@
 		<summary lang="es_ES">Sega - Dreamcast/Naomi (Flycast)</summary>
 		<description lang="en_GB">Reicast is a multi-platform Sega Dreamcast emulator.</description>
 		<description lang="es_ES">Reicast es un emulador multiplataforma de Sega Dreamcast.</description>
+		<lifecycle type="broken" lang="en_GB">This add-on has been renamed from Reicast to Flycast.</lifecycle>
+		<lifecyclestate type="broken" lang="en_GB">This add-on has been renamed from Reicast to Flycast.</lifecyclestate>
 	</extension>
 </addon>
