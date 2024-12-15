@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30071" type="select" id="reicast_boot_to_bios" values="disabled|enabled" default="disabled"/>
 		<setting label="30072" type="select" id="reicast_system" values="auto|dreamcast|naomi|atomiswave" default="auto"/>
 		<setting label="30003" type="select" id="reicast_hle_bios" values="disabled|enabled" default="disabled"/>

@@ -24,9 +24,7 @@ msgctxt "Addon Description"
 msgid "Reicast is a multi-platform Sega Dreamcast emulator."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30003"
 msgid "HLE BIOS"
