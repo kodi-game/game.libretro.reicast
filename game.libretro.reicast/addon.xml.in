@@ -29,5 +29,6 @@
 		<description lang="en_GB">Reicast is a multi-platform Sega Dreamcast emulator.[CR][CR]This add-on is now marked as broken. Please use Flycast.</description>
 		<description lang="es_ES">Reicast es un emulador multiplataforma de Sega Dreamcast.</description>
 		<lifecyclestate type="broken" lang="en_GB">This add-on has been renamed from Reicast to Flycast.</lifecyclestate>
+		<lifecyclestate type="broken" lang="es_ES">Este add-on ha sido renombrado de Reicast a Flycast.</lifecyclestate>
 	</extension>
 </addon>
